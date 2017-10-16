@@ -18,6 +18,7 @@
 #include <time.h>
 #include <windows.h>
 #else
+#include <unistd.h>
 #include <stdlib.h>
 #include <time.h>
 #endif
